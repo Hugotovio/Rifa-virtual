@@ -1,1 +1,10 @@
+# dependencias
 node_modules
+
+# build de producción
+build
+
+# archivos del sistema
+.DS_Store
+.env
+
